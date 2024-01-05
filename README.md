@@ -1,5 +1,5 @@
 # Subway Yelp Reviews Analysis
-![](/images/Subway_fig10.png)
+![](/images/Subway_fig12.png)
 ## Summary
 * Created a set of analyses and data visualizations that support or disprove the following statements made by Subway Restaurant leadership:
   * Head of Customer Service: “Our ratings are gradually improving, and we will soon reach 4.5/5.”
@@ -39,6 +39,5 @@
 * [Matplotlib](https://matplotlib.org/stable/tutorials/index)
 * [NumPy](https://numpy.org/doc/stable/)
 * [Pandas](https://pandas.pydata.org/)
-* [SciPy](https://scipy.org/)
 * [Seaborn](https://seaborn.pydata.org/)
-* [Datetime](https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html)
+
