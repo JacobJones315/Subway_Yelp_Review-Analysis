@@ -16,7 +16,7 @@
 * Plotted Subway Stores: Average Ratings by State Through the Years
 * Plotted a bar chart with error bars, comparing the mean and standard deviation of ratings for Subway and its national food chain competitors
 * Plotted a bar chart with error bars, comparing the mean and standard deviation of ratings for all local vs national food chains
-* Plotted average ratings by restaurant sizes on a line chart 
+* Plotted a line chart highlighting average ratings by restaurant size
 * Plotted an unstacked bar to analyze the number of 1-5 star ratings received from 2018-2021 
 * Plotted a hours vs number of reviews to see time intervals that Subway receives the most reviews.
 
@@ -25,8 +25,8 @@
 ![](/images/Subway_fig12.png)
 ![](/images/Subway_fig3.png)
 ![](/images/Subway_fig4.png)
-![](/images/Subway_fig5.png)
 ![](/images/Subway_fig6.png)
+![](/images/Subway_fig5.png)
 ![](/images/Subway_fig7.png)
 ![](/images/Subway_fig8.png)
 ![](/images/Subway_fig9.png)
