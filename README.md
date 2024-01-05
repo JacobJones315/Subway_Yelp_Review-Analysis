@@ -21,7 +21,7 @@
 
 ## Screenshot of Data Visuals Generated
 ![](/images/Subway_fig2.png)
-![](/images/Subway_fig10.png)
+![](/images/Subway_fig12.png)
 ![](/images/Subway_fig4.png)
 ![](/images/Subway_fig5.png)
 ![](/images/Subway_fig6.png)
