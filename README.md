@@ -11,7 +11,7 @@
 ## Procedure
 * Loaded Yelp datasets: reviews.csv and restaurants.csv 
 * Extracted year from date column and merged the two tables together on business_id
-* Created multiple filters and utilized groupby, mean, count, index, tolist to find average ratings per year and total ratings received and covert them to a dataframe
+* Created multiple filters and utilized groupby, mean, count, index, and arrays to find average ratings per year and total ratings received and covert them to a dataframe
 * Plotted a dual line/bar chart with years on the x-axis and average ratings per year and total ratings per year on the y-axis
 * Plotted Subway Stores: Average Ratings by State Through the Years
 * Created a dataframe, bar chart with error bars, and a line chart that highlights the mean and standard deviation of ratings for Subway and its national food chain competitors
@@ -20,7 +20,6 @@
 * Plotted a hours vs number of reviews to see time intervals that Subway receives the most reviews.
 
 ## Screenshot of Data Visuals Generated
-![](/images/Subway_fig1.png)
 ![](/images/Subway_fig2.png)
 ![](/images/Subway_fig3.png)
 ![](/images/Subway_fig4.png)
@@ -29,7 +28,7 @@
 ![](/images/Subway_fig7.png)
 ![](/images/Subway_fig8.png)
 ![](/images/Subway_fig9.png)
-
+![](/images/Subway_fig1.png)
 
 ## Related Course
 * Cornell University MSBA BANA 5440 Statistical Programming with Rakesh Allu, Ph.D. Student, Operations, Technology & Information Management
