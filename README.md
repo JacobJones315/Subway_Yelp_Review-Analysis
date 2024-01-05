@@ -14,7 +14,7 @@
 * Created multiple filters and utilized groupby, mean, count, index, and arrays to find average ratings per year and total ratings received and covert them to a dataframe
 * Plotted a dual line/bar chart with years on the x-axis and average ratings per year and total ratings per year on the y-axis
 * Plotted Subway Stores: Average Ratings by State Through the Years
-* Created a dataframe, bar chart with error bars, and a line chart that highlights the mean and standard deviation of ratings for Subway and its national food chain competitors
+* Plotted a bar chart with error bars, highlighting the mean and standard deviation of ratings for Subway and its national food chain competitors
 * Plotted average ratings by restaurant sizes on a bar chart and a scatter plot (linear regression, correlation, and R-squared)
 * Plotted an unstacked bar to analyze the number of 1-5 ratings received from 2018-2021 (4 years)
 * Plotted a hours vs number of reviews to see time intervals that Subway receives the most reviews.
