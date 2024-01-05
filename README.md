@@ -18,7 +18,10 @@
 * Plotted a bar chart with error bars, comparing the mean and standard deviation of ratings for all local vs national food chains
 * Plotted a line chart highlighting average ratings by restaurant size
 * Plotted an unstacked bar to analyze the number of 1-5 star ratings received from 2018-2021 
-* Plotted a hours vs number of reviews to see time intervals that Subway receives the most reviews.
+* Plotted a rating trend of randomly selected local vs national chain retaurants
+* Plotted a bar chart comapring the number of reviews submitted for each star rating
+* Plotted a line chart highlighting the number of unique Subway reviewers over the years
+* Plotted a bar chart with error bars, comparing the mean and standard deviation of ratings for Subway in each state
 
 ## Screenshot of Data Visuals Generated
 ![](/images/Subway_fig2.png)
@@ -26,6 +29,7 @@
 ![](/images/Subway_fig3.png)
 ![](/images/Subway_fig4.png)
 ![](/images/Subway_fig6.png)
+![](/images/Subway_fig11.png)
 ![](/images/Subway_fig5.png)
 ![](/images/Subway_fig7.png)
 ![](/images/Subway_fig8.png)
