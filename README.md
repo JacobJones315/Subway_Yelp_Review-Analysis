@@ -21,14 +21,16 @@
 * Plotted a hours vs number of reviews to see time intervals that Subway receives the most reviews.
 
 ## Screenshot of Data Visuals Generated
-![](/images/subway_fig_1.png)
-![](/images/subway_fig_4.png)
-![](/images/subway_fig_6.png)
-![](/images/subway_fig_7.png)
-![](/images/subway_fig_8.png)
-![](/images/subway_fig_9.png)
-![](/images/subway_fig_10.png)
-![](/images/subway_fig_11.png)
+![](/images/Subway_fig1.png)
+![](/images/Subway_fig2.png)
+![](/images/Subway_fig3.png)
+![](/images/Subway_fig4.png)
+![](/images/Subway_fig5.png)
+![](/images/Subway_fig6.png)
+![](/images/Subway_fig7.png)
+![](/images/Subway_fig8.png)
+![](/images/Subway_fig9.png)
+![](/images/Subway_fig10.png)
 
 ## Related Course
 * Cornell University MSBA BANA 5440 Statistical Programming with Rakesh Allu, Ph.D. Student, Operations, Technology & Information Management
