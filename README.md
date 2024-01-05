@@ -6,7 +6,7 @@
   * Head of Store Operations: “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
   * Head of Social Media: “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
   * Chief Data Scientist: “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the service. So online ratings are not reliable.”
-* Used matplotlib, seaborn, scipy, and pandas to generate line charts, bar charts, scatterplots, groupedby dataframes, and linear regression analyses
+* Used matplotlib, seaborn, and pandas to generate line charts, bar charts, scatterplots, group by dataframes, and linear regression analyses
 
 ## Procedure
 * Loaded Yelp datasets: reviews.csv and restaurants.csv 
@@ -16,7 +16,6 @@
 * Plotted Subway Stores: Average Ratings by State Through the Years
 * Created a dataframe, bar chart with error bars, and a line chart that highlights the mean and standard deviation of ratings for Subway and its national food chain competitors
 * Plotted average ratings by restaurant sizes on a bar chart and a scatter plot (linear regression, correlation, and R-squared)
-* To counter the effects of overrepresentation and underrepresentation, I used random sampling and generated a new correlation and R-sqaured value
 * Plotted an unstacked bar to analyze the number of 1-5 ratings received from 2018-2021 (4 years)
 * Plotted a hours vs number of reviews to see time intervals that Subway receives the most reviews.
 
