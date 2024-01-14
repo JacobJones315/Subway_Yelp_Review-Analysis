@@ -1,7 +1,7 @@
 # Subway Yelp Reviews Analysis
 ![](/images/Subway_fig12.png)
 ## Summary
-* Created a set of analyses and data visualizations that support or disprove the following statements made by Subway Restaurant leadership:
+* Formulated a series of analyses and data visualizations to either corroborate or challenge statements articulated by the leadership of Subway Restaurant:
   * Head of Customer Service: “Our ratings are gradually improving, and we will soon reach 4.5/5.”
   * Head of Store Operations: “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
   * Head of Social Media: “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
