@@ -10,7 +10,7 @@
 
 ## Procedure
 * Loaded Yelp datasets: reviews.csv and restaurants.csv 
-* Extracted year from date column and merged the two tables together on business_id
+* Extracted year from date column of both datasets and merged the two tables together on business_id
 * Created multiple filters and utilized groupby, mean, count, index, and arrays to find average ratings per year and total ratings received and covert them to a dataframe
 * Plotted a dual line/bar chart with years on the x-axis and average ratings per year and total ratings per year on the y-axis
 * Plotted Subway Stores: Average Ratings by State Through the Years
